@@ -1,6 +1,6 @@
-# Hi, I am Reyaansh
+# Hi, I am Akshaj Shourya
 
-Contact me at: reyaanshsinha4@gmail.com
+Contact me at: akshajkatakam2015@gmail.com & akshajshouryakatakam@outlook.com
 ## About me
 I am Akshaj Shourya Katakam, a 11-year-old Indian Programmer aiming to create amazing projects and products for various purposes. 
 
