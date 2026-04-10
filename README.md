@@ -2,9 +2,9 @@
 
 Contact me at: reyaanshsinha4@gmail.com
 ## About me
-I am Reyaansh Sinha, a 11-year-old Indian Programmer aiming to create amazing projects and products for various purposes. 
+I am Akshaj Shourya Katakam, a 11-year-old Indian Programmer aiming to create amazing projects and products for various purposes. 
 
-I am currently working on **Splice** A Custom programming language
+I am currently working on nothing but aim to start something soon
 
 ## Programming Languages
 
